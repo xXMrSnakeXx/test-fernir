@@ -21,7 +21,7 @@
 }
 .isCorrect {
   background-color: green;
-  color: white;
+   color: #374151;
 }
 .notCorrect {
   background-color: red;
@@ -35,7 +35,7 @@
   align-items: center;
   border: none;
   background-color: rgb(196, 190, 190);
-  color: white;
+  color: #374151;
 }
 .icons {
   width: 150px;
